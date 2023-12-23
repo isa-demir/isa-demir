@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isa-demir
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C# and Flutter.
+- 🌱 I’m currently learning Dart and Flutter.
 - 💞️ I’m looking to collaborate on big tech giants.
 - 📫 isademir.personal@gmail.com - isa.demir0 on instagram.
 <!---
