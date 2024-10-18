@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isa</h1>
 <h3 align="center">Flutter developer from Turkey</h3>
 
-- 🔭 I’m currently working on **extended todo project**
-
 - 📫 How to reach me **isademir.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
